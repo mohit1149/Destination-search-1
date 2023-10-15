@@ -1,0 +1,36 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.heading {
+  text-align: center;
+}
+.search-bar {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.background-image {
+  flex-wrap: wrap;
+  display: flex;
+  width: 68%;
+  list-style-type: none;
+}
+.background {
+  display: flex;
+  justify-content: center;
+}
+.image-search {
+  height: 30px;
+  width: 30px;
+  background-color: #f1f5f9;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+.search {
+  background-color: #f1f5f9;
+  outline: none;
+  border-width: 0px;
+  height: 30px;
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
